@@ -7,7 +7,10 @@
 		//td[contains(text(), '$')]
 ``
 
-	$72,000, $95,000, $51,000, $72,000
+	$72,000
+	$95,000
+	$51,000
+	$72,000
 
 •	Get the first tr in the tbody
 -	hint Use position
